@@ -7,7 +7,7 @@
 
 - 💻 I'm working as a reserach assistant in Fraunhofer ITWM **Developing Procurement Strategy Dashboards**
 
-- 📜 Know about my experince [Resume](https://drive.google.com/drive/u/0/folders/1uhoVsEldQWCVAetX5n3TOP-FXwtYvqBH)
+- 📜 Know about my experince [Resume](https://drive.google.com/file/d/1Qu40ihyPGnxIO5l-9DvDS68ZUrGTD88s/view?usp=drive_link)
 
 - 📫 How to reach me **ygandhi.contact@gmail.com**
 

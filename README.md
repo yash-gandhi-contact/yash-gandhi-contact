@@ -3,9 +3,7 @@
 <img align = "right" alt = "data" width =400 src = "https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 
 ### Current Activities
-- 🔭 I’m currently writing master's thesis with FfE Munich on [Electrical Flexibility Assessment Modeling Environment(eFlame)](https://www.ffe.de/tools/eflame-electric-flexibility-assessment-modeling-environment/)
-
-- 💻 I'm working as a research assistant in Fraunhofer ITWM **Developing Procurement Strategy Dashboards**
+- 🔭 I’m currently working as a Trainee associate research analyst at [EUPD research](https://www.eupd-research.com/en/).
 
 <!-- Experience Section -->
 ### Experience
